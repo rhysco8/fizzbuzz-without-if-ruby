@@ -1,0 +1,1 @@
+# Fizzbuzz without using if
