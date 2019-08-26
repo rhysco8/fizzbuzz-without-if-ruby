@@ -44,5 +44,4 @@ describe '#fizzbuzz' do
       expect(fizzbuzz(4)).to eq(4)
     end
   end
-
 end
